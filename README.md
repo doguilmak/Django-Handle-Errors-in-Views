@@ -178,7 +178,7 @@
 
 	handler404 = 'myproject.views.handler404'
 
-<p>We are done! Now, let's run our project and check on browser! We can check 404 Not Found error on <code>http://127.0.0.1:8000/home/</code> address.</p>
+<p>We are done! Now, let's run our project and check on browser! We can check 404 Not Found error on <code>http://127.0.0.1:8000/home/</code> address. After that, right click on the page and click <i>Inspect</i>. From <i>Network</i> section you can see the error. If you can't see it, please refresh the page.</p>
 
 <br>
 	
