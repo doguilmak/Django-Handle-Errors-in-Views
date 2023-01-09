@@ -66,7 +66,7 @@
 
     python -m django version
 
-<img src="./assets/two.png" height=400  width=950>
+<img src="./errorHandling/assets/two.png" height=40  width=950>
 
 <p>Done! Now we can use <i>Django framework</i> for our project! It's time to build project and app level folders and files. All we need to do is type following code lines. You can modify them but please don't forget, you may need to change paths in following files.</p>
 
