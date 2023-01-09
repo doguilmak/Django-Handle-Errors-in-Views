@@ -24,7 +24,7 @@
 
 <p>1. Open terminal in your code editor (I used VS Code):</p>
 
-<img src="./errorHandling/assets/one.png" height=400  width=950>
+<img src="./errorHandling/assets/one.png" height=450  width=1000>
 
 <p>Type or paste the following code lines on your teminal:</p>
 
