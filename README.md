@@ -180,8 +180,12 @@
 
 <p>We are done! Now, let's run our project and check on browser! We can check 404 Not Found error on <code>http://127.0.0.1:8000/home/</code> address. 
 
-<img src="./errorHandling/assets/three.png" height=400  width=950>
+<br>
+	
+<img src="./errorHandling/assets/three.png">
 
+<br>	
+	
 After that, we can check our custom error page with typing <code>http://127.0.0.1:8000/home/12</code> or etc. (unexciting file url).</p>
 
 <br>
