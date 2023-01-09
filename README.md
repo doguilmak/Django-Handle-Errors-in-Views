@@ -24,7 +24,7 @@
 
 <p>1. Open terminal in your code editor (I used VS Code):</p>
 
-<img src="./assets/one.png" height=400  width=950>
+<img src="./errorHandling/assets/one.png" height=400  width=950>
 
 <p>Type or paste the following code lines on your teminal:</p>
 
@@ -66,7 +66,7 @@
 
     python -m django version
 
-<img src="./errorHandling/assets/two.png" height=40  width=950>
+<img src="./errorHandling/assets/two.png" height=40  width=1000>
 
 <p>Done! Now we can use <i>Django framework</i> for our project! It's time to build project and app level folders and files. All we need to do is type following code lines. You can modify them but please don't forget, you may need to change paths in following files.</p>
 
@@ -180,7 +180,7 @@
 
 <p>We are done! Now, let's run our project and check on browser! We can check 404 Not Found error on <code>http://127.0.0.1:8000/home/</code> address. 
 
-<img src="./assets/three.png" height=400  width=950>
+<img src="./errorHandling/assets/three.png" height=400  width=950>
 
 After that, we can check our custom error page with typing <code>http://127.0.0.1:8000/home/12</code> or etc. (unexciting file url).</p>
 
