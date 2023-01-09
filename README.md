@@ -178,7 +178,7 @@
 
 	handler404 = 'myproject.views.handler404'
 
-<p>We are done! Now, let's run our project and check on browser! We can check 404 Not Found error on <code>http://127.0.0.1:8000/home/</code> address. 
+<p>We are done! Now, let's run our project and check on browser! We can check 404 Not Found error on <code>http://127.0.0.1:8000/home/</code> address.</p>
 
 <br>
 	
@@ -186,7 +186,7 @@
 
 <br>	
 	
-After that, we can check our custom error page with typing <code>http://127.0.0.1:8000/home/12</code> or etc. (unexciting file url).</p>
+<p>After that, we can check our custom error page with typing <code>http://127.0.0.1:8000/home/12</code> or etc. (unexciting file url).</p>
 
 <br>
 
