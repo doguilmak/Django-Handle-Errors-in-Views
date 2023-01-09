@@ -1,8 +1,8 @@
 <h1 align=center><font size = 5>Django Handle Errors in Views</font></h1>
 
-<img  src="https://blog.thomasnet.com/hs-fs/hubfs/shutterstock_774749455.jpg?width=600&name=shutterstock_774749455.jpg" height=400  width=950 alt="django_404_error_handling">
+<img  src="https://atlassianblog.wpengine.com/wp-content/uploads/2017/12/44-incredible-404-error-pages@3x-1560x760.png" height=350  width=1000 alt="django_404_error_handling">
 
-<small>Picture Source: <a  href="https://blog.thomasnet.com/industrial-website-404-error">blog.thomasnet.com</a></small>
+<small>Picture Source: <a  href="https://www.atlassian.com/blog/statuspage/error-pages">Atlassian</a></small>
 
 <br>
 
